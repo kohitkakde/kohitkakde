@@ -51,7 +51,12 @@
 <br/>
 </a><a href="https://app.mavenanalytics.io/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 
-<br/>https://app.mavenanalytics.io/portfolio
+<br/>
+
+<a href="https://www.hackerrank.com/dashboard" target="_blank">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/path-to-your-image-file.svg" alt="HackerRank" height="30" width="40" />
+</a>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kohitkakde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
