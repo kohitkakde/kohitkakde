@@ -2,6 +2,13 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/kohitkakde/kohitkakde)](https://badges.pufler.dev)
 
+
+[![Years Badge](https://badges.pufler.dev/years/kohitkakde)](https://badges.pufler.dev)
+
+
+[![Repos Badge](https://badges.pufler.dev/repos/kohitkakde)](https://badges.pufler.dev)
+
+https://badges.pufler.dev/repos/kohitkakde
 ---
 
 
