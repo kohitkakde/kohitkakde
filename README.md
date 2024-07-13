@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kohitkakde/kohitkakde)](https://badges.pufler.dev)
 
 ---
-![Kohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohitkakde&show_icons=true&theme=dark)
+![Kohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohitkakde&show_icons=true&theme=radical)
 
 ### 👀 I’m interested in data analysis.
 ### 🌱 I’m currently searching for implementation.
