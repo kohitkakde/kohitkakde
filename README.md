@@ -18,7 +18,7 @@
 
 ---
 ### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohitkakde&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohitkakde&layout=compact&theme=tokyonight)
 
 ---
 ### 🛠️ Skills
@@ -28,17 +28,24 @@
 - **Power BI**
 ---
 
-![Kohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohitkakde&show_icons=true&theme=Merko)
----
 
+
+
+![Kohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohitkakde&show_icons=true&theme=tokyonight)
+
+
+
+
+---
 
 ![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
 
 ---
 
 ## 🌐 Let's Connect
-[LinkedIn](www.linkedin.com/in/kohit-kakde)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kohit-kakde)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/dashboard)
+[![Maven](https://img.shields.io/badge/Maven-Profile-purple)](https://app.mavenanalytics.io/portfolio)
 
 
 
