@@ -51,11 +51,10 @@
 
 
 
-</a><a href="https://www.hackerrank.com/https://app.mavenanalytics.io/portfolio" target="blank"><img align="center"  src="https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/maven%20jpej.jpeg" alt="" height="30" width="40" />
+</a><a href="https://mavenanalytics.io/https://app.mavenanalytics.io/portfolio" target="blank"><img align="center"  src="https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/maven%20jpej.jpeg" alt="" height="30" width="40" />
 </a>
 
-
-https://app.mavenanalytics.io/portfolio
+<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kohitkakde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
