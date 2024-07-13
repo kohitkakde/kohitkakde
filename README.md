@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Kohit Kakde
 
-[![Visits Badge](https://badges.pufler.dev/visits/kohitkakde/kohitkakde)](https://badges.pufler.dev)
 
 
-[![Years Badge](https://badges.pufler.dev/years/kohitkakde)](https://badges.pufler.dev)
-
+![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
 
 [![Repos Badge](https://badges.pufler.dev/repos/kohitkakde)](https://badges.pufler.dev)
 
-https://badges.pufler.dev/repos/kohitkakde
+
 ---
 
 
@@ -45,7 +43,7 @@ https://badges.pufler.dev/repos/kohitkakde
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/kohitkakde/kohitkakde)](https://badges.pufler.dev)
 
 ---
 
