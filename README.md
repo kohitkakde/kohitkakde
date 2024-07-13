@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Kohit Kakde
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
-
-
 ---
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/kohitkakde)](https://badges.pufler.dev)
 
+
+---
+
+
+![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
 
 ---
 
