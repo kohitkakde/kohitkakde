@@ -3,6 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/kohitkakde/kohitkakde)](https://badges.pufler.dev)
 
 ---
+![Kohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohitkakde&show_icons=true&theme=dark)
 
 ### 👀 I’m interested in data analysis.
 ### 🌱 I’m currently searching for implementation.
@@ -16,14 +17,21 @@
 2. **Raw data** are dirty but **insight👀** are fruitful 😄.
 
 ---
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohitkakde&layout=compact&theme=dark)
 
+---
 ### 🛠️ Skills
 - **SQL**
 - **Python**
 - **Excel**
 - **Power BI**
-
 ---
 
 
-![Visitor Count](https://profile-counter.glitch.me/{kohitkakde}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kohitkakde/count.svg)
+
+---
+
+## 🌐 Let's Connect
+[LinkedIn](www.linkedin.com/in/kohit-kakde)
