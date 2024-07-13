@@ -51,7 +51,7 @@
 
 
 
-</a><a href="https://mavenanalytics.io/https://app.mavenanalytics.io/portfolio" target="blank"><img align="center"  src="https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/maven%20jpej.jpeg" alt="" height="30" width="40" />
+</a><a href="https://mavenanalytics.io/https://mavenanalytics.io/profile/Kohit-Kakde/195910992" target="blank"><img align="center"  src="https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/maven%20jpej.jpeg" alt="" height="30" width="40" />
 </a>
 
 <br/>
