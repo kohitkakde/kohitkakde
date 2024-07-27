@@ -1,8 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohitkakde&label=Profile%20views&color=b60e21&style=plastic" alt="kohitkakde" /> </p>
+
+<br/>
+<br/>
+
+![Logo](https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/banner..png)
+
+<br/>
+<br/>
+
 <h1 align="center">Hi 👋, I'm Kohit Manoj Kakde</h1>
 <h3 align="center">A passionate Data Analyst </h3>
 
-
+<br/>
+<br/>
 
 
 
@@ -16,12 +26,19 @@
 
 - 💬 Let's chat about **SQL queries, Power BI dashboards, data analysis, or Python programming**—I'm always eager to discuss these topics!
 
-- 📫 Reach out to me via email at **kohitkakdeer@gmail.com**—I'm looking forward to hearing from you!
+- 📫 Reach out to me via email at **kohitkakdeer@gmail.com**—I look forward to hearing from you!
 
   
   
 
+###
 
+<img align="right" width="400" height="300"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+
+
+<br/>
+<br/>
+<br/>
 
 
 <br/><h3 align="left">💻Languages and Tools:</h3>
@@ -41,7 +58,7 @@
 <br/>
 <h3 align="left">🌐 Connect with me:</h3>
 
-<br/> 
+<br/>
 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kohit-kakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kohit-kakde" height="30" width="40" /> 
@@ -58,3 +75,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kohitkakde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
