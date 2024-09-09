@@ -3,10 +3,6 @@
 <br/>
 <br/>
 
-![Logo](https://github.com/kohitkakde/kohitkakde/blob/main/svg%20file/banner..png)
-<br/>
-<br/>
-
 <h1 align="center">Hi 👋, I'm Kohit Manoj Kakde</h1>
 <h3 align="center">A passionate Data Analyst </h3>
 
