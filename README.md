@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently diving into a fascinating **supply chain optimization project**.
+- 🔭 I’m currently diving into a fascinating **EV SALES Project**.
 
 - 👯 I’m open to exploring potential collaborations, although I'm currently focused on individual projects(but we can collaborate).
 
