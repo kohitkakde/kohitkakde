@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohitkakde&label=Profile%20views&color=b60e21&style=plastic" alt="kohitkakde" /> </p>
 
-<br/>
-<br/>
+
 
 <h1 align="center">Hi 👋, I'm Kohit Manoj Kakde</h1>
 <h3 align="center">A passionate Data Analyst </h3>
@@ -37,14 +36,6 @@
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=plastic)     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&style=plastic)    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&style=plastic)    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=plastic)
 
-<br/><h3 align="left"> 📊 GitHub Stats:</h3>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=kohitkakde&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" align="center"/><br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kohitkakde&theme=tokyonight&hide_border=true)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kohitkakde&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 <h3 align="left">🌐 Connect with me:</h3>
